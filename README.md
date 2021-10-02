@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevAlfaKhan
 - 👀 I’m interested in php PHP OOPS
 - 🌱 I’m currently learning php opps, Laravel Framwork and Data Structures & Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any php projects.
 - 📫 How to reach me mdalfakhan31@gmail.com
 
 <!---
